@@ -7,7 +7,7 @@ Check the folders under the product name to find the file you need. We will cont
 Check the reseller list from Dropeffect website: www.dropeffect.com/pages/resellers
 
 # Note
-Thank you for using Dropeffect products. If you have any questions during use, please do not hesitate to contact us: support@dropeffect.com. We will work with you to solve it. 
+Thank you for using Dropeffect products. If you have any questions during use, please do not hesitate to contact us: contact@dropeffect.com. We will work with you to solve it. 
 
 For more product information you can always follow Dropeffect Website/Twitter/Instagram/Facebook/Youtube and Github. Thank you!
 
