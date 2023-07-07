@@ -1,5 +1,5 @@
 # Dropeffect GitHub
-Welcome to the Dropeffect GitHub repository. This is a place to share the instructions, models, adapters and any other relevant files for the Phaetus products from Dropeffect R&D team and other users. 
+Welcome to the Dropeffect GitHub repository. This is a place to share the instructions, models, adapters and any other relevant files for the Dropeffect products from Dropeffect R&D team and other users. 
 
 Check the folders under the product name to find the file you need. We will continue updating the folders.
 
